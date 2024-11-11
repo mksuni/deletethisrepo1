@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Except for the specific file
+!function_app.py
+!libraries.json
+!fabric.json
+!.gitignore
